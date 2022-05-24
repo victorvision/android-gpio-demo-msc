@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.victorvision.i2c_demo"
+        applicationId "com.victorvision.gpio_demo"
         minSdkVersion 22
         targetSdkVersion 30
         versionCode 1
